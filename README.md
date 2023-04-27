@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evertdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="evertdiaz" /> </p>
 
-- 🌱 Main stack: **MERN + Algorand. And sometimes in Solidity**
+- 🌱 Main stack: **MERN + Algorand. And yes, Solidity**
 
 - 👯 Experienced with: **Algorand, Solidity, Neural Networks, web2 fullstack development and company creation & management**
 
