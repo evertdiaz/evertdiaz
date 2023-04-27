@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evertdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="evertdiaz" /> </p>
 
-- 🌱 Main Stack: **Solidity + Mongo, Express, React, Node**
+- 🌱 Main stack: **MERN + Algorand. And sometimes in Solidity**
 
-- 👯 I’m looking to collaborate on: **Blockchain projects**
+- 👯 Experienced with: **Algorand, Solidity, Neural Networks, web2 fullstack development and company creation & management**
 
-- 🤝 Some tools and networks: **Solidity, Ethereum, Hedera, Hardhat, web3js**
+- 🤝 Reach me if you're interested in: **Help on how to be a blockchain dev | or create a blockchain product**
 
-- 💬 Ask me about: **Tech Startups, Blockchain, web3, Javascript**
+- 💬 Don't ask me about (unless you want to talk for hours): **Tech startups, Edge technology, blockchain and Human Evolution**
 
 - 📫 How to reach me: **evertdiazb@gmail.com**
 
