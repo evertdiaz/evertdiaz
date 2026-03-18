@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Evert Diaz</h1>
-<h3 align="center">MERN / Web3 developer</h3>
+<h3 align="center">Developer Relations | Blockchain | Product & Ecosystem Strategy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evertdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="evertdiaz" /> </p>
 
-- 🌱 Main stack: **MERN + Algorand. And yes, Solidity**
+- 🌱 Main stack: **MERN, Python, Algorand. And yes, Solidity**
 
 - 👯 Experienced with: **Algorand, Solidity, Neural Networks, web2 fullstack development and company creation & management**
 
 - 🤝 Reach me if you're interested in: **Help on how to be a blockchain dev | or create a blockchain product**
 
-- 💬 Don't ask me about (unless you want to talk for hours): **Tech startups, Edge technology, blockchain and Human Evolution**
+- 💬 Don't ask me about (unless you want to talk for hours): **Tech startups, Edge technology, blockchain and Developer Relations Strategy**
 
 - 📫 How to reach me: **evertdiazb@gmail.com**
 
