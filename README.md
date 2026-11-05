@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Evert Diaz</h1>
-<h3 align="center">Developer Relations | Blockchain | Product & Ecosystem Strategy</h3>
+<h3 align="center">Developer Relations | AI & Blockchain | Founder who delivered 100+ Software Products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evertdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="evertdiaz" /> </p>
 
-- 🌱 Main stack: **MERN, Python, Algorand. And yes, Solidity**
+- 💡 I help developers and companies **build with AI and blockchain, bridging business and engineering**
 
-- 👯 Experienced with: **Algorand, Solidity, Neural Networks, web2 fullstack development and company creation & management**
+- 🎤 Most recently **Senior DevRel at the Algorand Foundation**: bootcamps, workshops, docs, videos and talks in English, Spanish and Portuguese
 
-- 🤝 Reach me if you're interested in: **Help on how to be a blockchain dev | or create a blockchain product**
+- 🏗️ Before that, I **founded and ran Starter**, a software company that delivered 100+ products across the Americas
 
-- 💬 Don't ask me about (unless you want to talk for hours): **Tech startups, Edge technology, blockchain and Developer Relations Strategy**
+- 🔭 Building **blockchain-based products with agent-orchestrated development**
+
+- 🌱 Main stack: **TypeScript, Python, Algorand (Python / TypeScript) and Solidity, plus LLM APIs and coding agents**
+
+- 💬 Ask me about (and I'll talk for hours): **Tech startups, AI, blockchain and DevRel strategy**
 
 - 📫 How to reach me: **evertdiazb@gmail.com**
 
